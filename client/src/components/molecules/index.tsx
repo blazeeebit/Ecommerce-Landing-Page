@@ -1,0 +1,6 @@
+export {default as MenuItems} from './menuItems'
+export {default as Slider} from './slider'
+export {default as ProductCardSlide} from './productCard'
+export {default as ProductListCard} from './productListCard'
+export {default as SideBar} from './sideBar'
+export {default as Cart} from './cart'
